@@ -1,0 +1,113 @@
+{
+    "title": "Over the Garden Wall",
+    "description": "Over the Garden Wall is an animated television miniseries created for Cartoon Network by Patrick McHale, known for his work on Adventure Time and The Marvelous Misadventures of Flapjack. It was based on McHale 2019s animated short, Tome of the Unknown.The miniseries consisted of ten episodes that were broadcast throughout the week of November 3rd to the 7th, in 2014. McHale directed all the episodes, with Nick Cross serving as art director and Nate Cash as supervising director.The show is considered a critical and popular success, with an 8.8/10 rating on IMDb and the recipient of the 2015 Reuben Award from the National Cartoonists Society.",
+    "characters": {
+        "wirt": {
+            "name": "Wirt",
+            "gender": "Male",
+            "age": 16,
+            "position": "Lawful Good",
+            "role": [
+                "Protagonist",
+                "Older Sibling",
+                "Awkard Teen",
+                "Lost Soul"
+            ],
+            "cartoon-debut": "Chapter 1: The Old Grist Mill",
+            "img": "https://static.wikia.nocookie.net/parody/images/a/a8/Wirt_Over_the_Garden_Wall_Art.jpg/revision/latest?cb=20150930024853"
+        },
+        "greg": {
+            "name": "Gregory",
+            "gender": "Male",
+            "age": 12,
+            "position": "Good",
+            "role": [
+                "Deuteragonist",
+                "Younger Sibling"
+            ],
+            "cartoon-debut": "Chapter 1: The Old Grist Mill",
+            "img": "https://pp.userapi.com/c625527/v625527615/771a/bLAPRMxRL38.jpg"
+        },
+        "beatrice": {
+            "name": "Beatrice",
+            "gender": "Female",
+            "age": 15,
+            "position": "Good",
+            "role": [
+                "Friend",
+                "Guide"
+            ],
+            "cartoon-debut": "Chapter 1: The Old Grist Mill",
+            "img": "https://static.wikia.nocookie.net/p__/images/e/e1/Beatrice_Over_the_Garden_Wall.jpg/revision/latest?cb=20141111073207&path-prefix=protagonist"
+        },
+        "woodsman": {
+            "name": "Woodsman",
+            "gender": "Male",
+            "age": "?",
+            "position": "Good",
+            "role": [
+                "Protector",
+                "Fool",
+                "Pawn",
+                "Redemptor",
+                "Lantern Bearer"
+            ],
+            "cartoon-debut": "Chapter 1: The Old Grist Mill",
+            "img": "https://vignette3.wikia.nocookie.net/tome-of-the-unknown/images/9/9c/10522216_391521004331138_4401867069248909105_n.jpg/revision/latest?cb=20141109011229"
+        },
+        "the-frog": {
+            "name": "Jason Funderburker (the frog)",
+            "gender": "Male",
+            "age": "?",
+            "position": "Unknown",
+            "role": [
+                "Greg's Frog",
+                "God"
+            ],
+            "cartoon-debut": "Chapter 1: The Old Grist Mill",
+            "img": "https://unothegateway.com/wp-content/uploads/2020/10/over-the-garden-wall.png"
+        }
+    },
+    "location": {
+        "unknown": {
+            "name": "Unknown",
+            "features": "The Unknown is a fairly rural area which is mostly covered in undeveloped land; rivers, pastures, swamps, and thick forests can be found in the Unknown. Civilizations including the town of Pottsfield, the Tavern, the Schoolhouse (the area surrounding the schoolhouse appears to have many wealthy citizens, evinced through the generous donations given at the fundraising concert) are explored during the series. Trodden dirt paths as well as cobblestone trails are also seen, which provides possible confirmation of the many inhabitants of the Unknown, who may travel often.",
+            "sublocations": {
+                "old-mill": {
+                    "name": "Old Mill",
+                    "inhabitants": "The Woodsman",
+                    "type": "Water Mill",
+                    "location": "The Unknown",
+                    "features": "The Mill is a location that the Woodsman used to harvest grist from Edelwood to feed The Dark Lantern until it was destroyed by the Dog in The Old Grist Mill."
+                },
+                "school-house": {
+                    "name": "Colegio",
+                    "inhabitants": "Ms.Langtree and Students",
+                    "type": "School House",
+                    "location": "The Unknown",
+                    "features": "The whole school is funded by Mr. Langtree. The School House is of sentimental value to Mr. Langtree as shown when he calls it 'that dear, dear school' and when he steals the students instruments in a desperate attempt to save the school."
+                },
+                "tavern": {
+                    "name": "Tavern",
+                    "inhabitants": "The Unknown",
+                    "type": "Building",
+                    "location": "The Unknown",
+                    "features": "The Tavern is a basic grey stone brick building with two storys. The only windows seen from the front is the one on the second floor and the other that faces the stable.",
+                    "regulars": [
+                        "The Baker",
+                        "The Butcher",
+                        "The Caligrapher",
+                        "The Cobbler",
+                        "The Highway man",
+                        "Master and apprentice",
+                        "The Midwife",
+                        "The Petissier",
+                        "The Tailor",
+                        "The Tavern Keeper",
+                        "The Toymaker"
+                    ]
+                }
+            }
+        }
+    }
+}
